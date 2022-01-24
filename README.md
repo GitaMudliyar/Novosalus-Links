@@ -24,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1KN2yrfMV_eEmszdbzYzrbFvO3TTRYX5_ZE1Zdnlo
 Pages from Leonardo Site
 https://drive.google.com/drive/u/1/folders/1LsKGrWAlOWe9uQdAPNGH4NuiuS36OuP7
 
-Notion FAQ to write
+FAQ to write
 https://docs.google.com/spreadsheets/d/1415OUrLNPU46D2IMrdzLh8J1QvABF9_Fihmdu8gH4Zo/edit#gid=0
 
 
