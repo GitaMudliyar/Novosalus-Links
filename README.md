@@ -21,6 +21,9 @@ https://docs.google.com/document/d/1yoyL1tJDIGG8wOfmSllXFEB7YAqCuGTR-yBZ2VKXYS8/
 SEO Google Sheet:-
 https://docs.google.com/spreadsheets/d/1KN2yrfMV_eEmszdbzYzrbFvO3TTRYX5_ZE1ZdnlouZs/edit#gid=1803744628
 
+Notion faqs:-
+https://www.notion.so/novosalus/Doctor-s-FAQS-for-website-24cc7de1f64a433d827d48c7283fa020
+
 Pages from Leonardo Site
 https://drive.google.com/drive/u/1/folders/1LsKGrWAlOWe9uQdAPNGH4NuiuS36OuP7
 
