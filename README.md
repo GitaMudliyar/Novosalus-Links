@@ -30,4 +30,4 @@ https://drive.google.com/drive/u/1/folders/1LsKGrWAlOWe9uQdAPNGH4NuiuS36OuP7
 FAQ to write
 https://docs.google.com/spreadsheets/d/1415OUrLNPU46D2IMrdzLh8J1QvABF9_Fihmdu8gH4Zo/edit#gid=0
 
-
+Youtube Video upload credentials:- ID:- aboutmyclinic.com	Pass:- cliniforms
