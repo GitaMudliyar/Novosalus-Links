@@ -35,3 +35,5 @@ Youtube Video upload credentials:- ID:- aboutmyclinic.com	Pass:- cliniforms
 March after calls :- https://docs.google.com/spreadsheets/d/1MlJ-2sekA1kEG8fh0lGhRu9C5CUEsN-oqvkdbB0Lztg/edit#gid=0
 
 AMC rouch mannual: https://docs.google.com/document/d/1r7NN8mPfhqW-VQywizYJHmw1LEJYdTwzP1bxZ1GTcqg/edit
+
+Adfmin features:- https://docs.google.com/spreadsheets/d/1PG8hjCHp2prf58rBPBc7CsDRI_HiIDlfGrl0cQnILLk/edit#gid=0
